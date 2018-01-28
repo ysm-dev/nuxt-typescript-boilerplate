@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-typescript-boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "nuxt": "^1.0.0-alpha.5",
+    "vue-class-component": "^5.0.2",
+    "vue-property-decorator": "^5.1.1",
+    "vuex-class": "^0.2.0"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14",
+    "ts-loader": "^2.3.0",
+    "typescript": "^2.4.1"
+  }
+}
